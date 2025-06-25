@@ -33,5 +33,5 @@ Microsoft Excel, Pivot Tables, VLOOKUP, IF Formulas, Line & Bar Charts, Slicers,
 ## Sheets Included: 
 orders, customers, products, SalesByCountry, TotalSales, Dashboard, and more.
 # File preview
-![dashboard as PNG image](Dashboard_Image.PNG)
+![dashboard as PNG image](Dasboard_Image.PNG)
 ![data analysis sheet as PNG image](data_analysis.PNG)
