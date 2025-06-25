@@ -32,6 +32,9 @@ Bar charts, line graphs, donut charts, slicers, and timeline filters for user-dr
 Microsoft Excel, Pivot Tables, VLOOKUP, IF Formulas, Line & Bar Charts, Slicers, Hyperlinked Navigation
 ## Sheets Included: 
 orders, customers, products, SalesByCountry, TotalSales, Dashboard, and more.
+## Note to acccess excel file
+File will not open on this window. so click on 'raw file' to download excel file.
+[click here to download excel file](https://github.com/TanveerHussainCodes/coffee_sales_dashboard_byexcel/raw/main/coffe_sales_dashboard_complete.xlsx)
 ## File preview
 ![dashboard as PNG image](Dasboard_Image.PNG)
 ![data analysis sheet as PNG image](data_analysis.PNG)
