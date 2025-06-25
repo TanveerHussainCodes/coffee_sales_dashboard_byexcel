@@ -32,6 +32,6 @@ Bar charts, line graphs, donut charts, slicers, and timeline filters for user-dr
 Microsoft Excel, Pivot Tables, VLOOKUP, IF Formulas, Line & Bar Charts, Slicers, Hyperlinked Navigation
 ## Sheets Included: 
 orders, customers, products, SalesByCountry, TotalSales, Dashboard, and more.
-# File preview
+## File preview
 ![dashboard as PNG image](Dasboard_Image.PNG)
 ![data analysis sheet as PNG image](data_analysis.PNG)
