@@ -28,5 +28,10 @@ Designed an interactive dashboard using slicers for roast type, coffee size, loy
 ### Visual Elements:
 Bar charts, line graphs, donut charts, slicers, and timeline filters for user-driven insights.
 
-## Tools Used: Microsoft Excel, Pivot Tables, VLOOKUP, IF Formulas, Line & Bar Charts, Slicers, Hyperlinked Navigation
-## Sheets Included: orders, customers, products, SalesByCountry, TotalSales, Dashboard, and more.
+## Tools Used: 
+Microsoft Excel, Pivot Tables, VLOOKUP, IF Formulas, Line & Bar Charts, Slicers, Hyperlinked Navigation
+## Sheets Included: 
+orders, customers, products, SalesByCountry, TotalSales, Dashboard, and more.
+# File preview
+![dashboard as PNG image](Dashboard.PNG)
+![data analysis sheet as PNG image](data_analysis.PNG)
